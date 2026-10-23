@@ -8,7 +8,7 @@
 信息截至：2026-10-11
 
 ## 回应前先理清三件事
-一 · 期限 记录通知日期、回复期限与承办部门；延期请求的结果单独保存。 二 · 材料 让信上每项要求对应到凭证，缺件与解释分开列。 三 · 回执 保存提交内容、传送记录和后续答复，方便继续跟进。
+一 · 期限 记录通知日期、回复期限与承办部门；延期请求的结果单独保存。 - 先看：信的类型与所涉年度：审查、匹配、提醒、重新评估、审计与欠款，要求各不相同。 - 易漏：来不及回复时，延期要向信末的承办部门提出，未获答复不能视作已获准。 - 下一步：每封信一行，列进来信事项表。 先记期限，再整理材料。 二 · 材料 让信上每项要求对应到凭证，缺件与解释分开列。 - 先看：CRA 要支持的是哪一项申报。 - 易漏：已交过的文件可能被再次索要，每次提交都要留一份清单。 - 下一步：按「要求、说明、附件页码」三栏整理回复。 一项要求，对应一份可以指出页码的凭证。 三 · 回执 保存提交内容、传送记录和后续答复，方便继续跟进。 - 先看：上传或邮寄之后是否留下了提交记录。 - 易漏：通知可能只发到 CRA 账户或邮箱，账户的通知方式值得定期核对。 - 下一步：久无回音时，按记录的日期经信末的联系方式查询。 有记录，跟进时才说得清何时交过什么。
 
 ## 交付内容
 来信事项表 每封信一行：信的类型、发出日期、所涉年度、要求的项目、回复期限与承办部门。几年的审查与重新评估放在同一张表上，先后次序一目了然。 回复材料对照表 按信上列出的每一项，分三栏写明：CRA 的要求、对应的说明、附件的文件名与页码。缺件与需要另行解释之处单独列出，提交前逐项核对。 往来记录与跟进日历 记下每次提交的日期、方式与回执，每次通话的日期与答复要点。同一份材料再被索要时，可以直接说明何时已经提交；久无回音时，按记录的日期跟进。
@@ -35,7 +35,7 @@
 以下几段取自公开论坛中纳税人的原话，链接附后。个案经过以原帖为准。 同一份材料，又被要了一次。 「I have send them more documents and yesterday did receive another letter and asking for same documents again. This is getting too much .」（r/PersonalFinanceCanada）；另一位写道：「This is the 5th year in a row CRA has asked me to submit documents」（r/PersonalFinanceCanada）。据 CRA 说明，审查不是审计；信上通常列明需要支持的申报项目。每次提交都留一份清单与回执，再被问到时可以直接对照。详见审查与匹配信的回复准备。 交了材料，几个月没有消息。 「I submitted documents for a review on moving expenses one year ago. Still haven't heard anything.」（r/PersonalFinanceCanada）。记下提交日期与方式，按信末的联系方式查询进度，并把每次查询的日期与答复一并记录。 通知没看到，账户里已是欠款。 「we have re evaluated your income due to lack of response and you owe us $11,200 in back payment」（r/PersonalFinanceCanada）。同一帖的后续写到，补交材料后「it took them 11 months to review the documents and reverse the debt + interest」。CRA 账户的通知方式与邮箱，值得定期核对一次。 不同意重新评估，又已经付了款。 「does my payment mean that I accept the reassessment? Or can 
 
 ## 按问题继续阅读
-审查与稽查支持知识枢纽：按办理阶段查阅相关问题。 - CRA 复核与争议处理 - 往年漏报与自愿披露 - 识别冒充 CRA 的诈骗
+审查与稽查支持知识枢纽：按办理阶段查阅相关问题。 - CRA 复核与争议处理 - 往年漏报与自愿披露 - 识别冒充 CRA 的诈骗 - 补材料信的回复期限 - 罚款与利息的减免申请 - 欠税追收的几个阶段
 
 ## 常见问题
 
